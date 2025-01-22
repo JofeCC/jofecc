@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Lerning about programming and data analysis since 2023.<br>📚 I'm currently learning about Android development and React.<br>✈️ I love to travel and immerse myself in diverse cultures.<br>🎧 🎸I'm passionate about playing, listening to, and discovering music.<br>🌎 I am trilingual (French, English, and Spanish).</p>
+<p align="left">✨ Lerning about programming and data analysis since 2023.<br>📚 I'm currently learning about Android development and React.<br>✈️ I love to travel and immerse myself in diverse cultures.<br>🎧 🎸I'm passionate about playing, listening to, and discovering music.<br>🌎 I'm trilingual (French, English, and Spanish).</p>
 
 ###
 
