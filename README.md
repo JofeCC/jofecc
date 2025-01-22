@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm a last year student in the Information Technology Programmer-Analyst program at LaSalle College Montreal.<br><br>🔎 I'm currently looking for an internship opportunity at a visionary company to contribute to significant projects.</p>
+<p align="left">🎓 I'm a last year student in the Information Technology Programmer-Analyst program at LaSalle College Montreal.<br>🔎 I'm currently looking for an internship opportunity at a visionary company to contribute to significant projects.</p>
 
 ###
 
