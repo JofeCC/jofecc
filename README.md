@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> I am a **software developer** located in Montreal, QC.</p>
+<p align="left"> I am a __software developer__ located in Montreal, QC.</p>
 
 ###
 
