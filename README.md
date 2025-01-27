@@ -1,8 +1,13 @@
-<h1 align="left">Hello World! I'm Joaquin. Welcome to my GitHub👋</h1>
+<h1 align="left">Hello World! I'm Joaquin Cervantes👋</h1>
 
 ###
 
-<p align="left">🎓 I'm a last year student in the Information Technology Programmer-Analyst program at LaSalle College Montreal.<br>🔎 I'm currently looking for an internship opportunity at a visionary company to contribute to significant projects.</p>
+<p align="left"> I am a **software developer** located in Montreal, QC.</p>
+
+###
+
+<p align="left">🎓 I am pursuing an AEC in the IT Analyst-Programmer program at LaSalle College Montreal, and I'm in my final semester.
+  <br>🔎 I'm currently looking for a Software Development Internship starting in May 2025 in a company where I can add value and contribute with my knowledge of programming and data analysis while I strengthen my professional skills.</p>
 
 ###
 
