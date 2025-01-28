@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left"> I am a software developer located in Montreal, QC.</p>
+<p align="left"> I'm a software developer located in Montreal, QC.</p>
 
 ###
 
-<p align="left">🎓 I am pursuing an AEC in the IT Analyst-Programmer program at LaSalle College Montreal, and I'm in my final semester.
+<p align="left">🎓 I'm pursuing an AEC in the IT Analyst-Programmer program at LaSalle College Montreal, and I'm in my final semester.
   <br>🔎 I'm currently looking for a Software Development Internship starting in May 2025 in a company where I can add value and contribute with my knowledge of programming and data analysis while I strengthen my professional skills.</p>
 
 ###
